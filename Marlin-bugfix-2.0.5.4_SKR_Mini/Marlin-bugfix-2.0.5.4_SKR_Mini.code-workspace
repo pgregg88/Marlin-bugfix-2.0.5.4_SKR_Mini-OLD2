@@ -1,0 +1,11 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Configurations-bugfix-2.0.x/config/examples/Creality"
+		}
+	],
+    "settings": {}
+}
